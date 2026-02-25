@@ -2,7 +2,7 @@
 
 A cat swiping app built with React. Swipe right on cats you love, left on ones you'd pass — then see your favourite kitties in a summary at the end.
 
-**[Link to website →](https://krs-trc.github.io/paws-preference/)**
+**[Link to website](https://krs-trc.github.io/paws-preference/)**
 
 ## 🛠️ Built With
 
